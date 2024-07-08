@@ -45,14 +45,14 @@
 > These projects started with basic JavaScript, were rewritten with React, and extended with various utilities to explore new possibilities and improve functionality resulting in more dynamic and comprehensive web applications.
 >
 > <br>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Shcoobz/list_basicJS-and-advancedJS-plus-projects">
-    <img src="https://img.shields.io/badge/basicJS_and_advancedJS_++_projects-List-28a745?style=for-the-badge&logo=github" alt="basicJS && advancedJS plus projects list"/>
-  </a>
-</div>
+>
+> <div align="center">
+>  <a href="https://github.com/Shcoobz/list_basicJS-and-advancedJS-plus-projects">
+>    <img src="https://img.shields.io/badge/basicJS_and_advancedJS_++_projects-List-28a745?style=for-the-badge&logo=github" alt="basicJS && advancedJS plus projects list"/>
+>  </a>
+> </div>
+>
+> <br>
 
 <br>
 
